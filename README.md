@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Problem+Solver;Building+Tomorrow's+Solutions+Today)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Developer+%7C+Python+Specialist;Frontend+Architect+%7C+Problem+Solver;+)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ice-exe&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ice-exe)
 [![Years Badge](https://badges.pufler.dev/years/ice-exe?style=for-the-badge&color=00d9ff)](https://github.com/ice-exe)
