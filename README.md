@@ -19,7 +19,7 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "abdvlrqhman"
-        self.role = "Full-Stack Software Developer"
+        self.role = "Software Developer"
         self.language_spoken = ["Python", "JavaScript", "C++", "HTML", "CSS"]
         self.specialties = ["Frontend Development", "Backend Architecture", "Cloud Solutions"]
         self.current_focus = "Building scalable web applications"
